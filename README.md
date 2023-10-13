@@ -27,3 +27,5 @@ Comandos Docker para execução do container:<br/>
 docker build -t [nome-do-container] . <br/>
 docker run -p 3000:3000 [nome-do-container]
 
+<n>AVISO</n>: Verificar a pasta antes de executar o build e manter o uso do . (ponto final) no comando docker
+
