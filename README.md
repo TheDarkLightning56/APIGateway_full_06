@@ -3,7 +3,7 @@ Trabalho de API Gateway focado no desenvolvimdneto de uma API na linguagem Node
 
 
 # Programas para Uso
--Postman: Testar as rotas desenvolvidas
+-Postman: Testar as rotas desenvolvidas\n
 -Docker: Executar a imagem para rodar a aplicação
 
 # Rotas
